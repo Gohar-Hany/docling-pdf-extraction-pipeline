@@ -1,0 +1,19 @@
+{
+  "source": "sample.pdf",
+  "status": "PASS",
+  "processing_time_sec": 61.97,
+  "page_coverage": {
+    "expected": 5,
+    "extracted": 5,
+    "coverage_pct": 100.0,
+    "empty_pages": []
+  },
+  "content_counts": {
+    "text_elements": 31,
+    "tables": 0,
+    "pictures": 10,
+    "code_blocks": 0
+  },
+  "warnings": [],
+  "errors": []
+}

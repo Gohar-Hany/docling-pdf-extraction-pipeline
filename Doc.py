@@ -133,9 +133,9 @@ class ValidationReport:
         return "\n".join(lines)
 
 
-# ─────────────────────────────────────────────────────────────────────────────
+# ───────────────────────────────────────────────────────────────────────────
 # Pipeline Builder
-# ─────────────────────────────────────────────────────────────────────────────
+# ───────────────────────────────────────────────────────────────────────────
 def build_pipeline_options() -> PdfPipelineOptions:
     """
     Construct a fully-tuned PdfPipelineOptions for maximum extraction quality.
